@@ -7,6 +7,8 @@ Pixel Processor is a Python application that allows you to analyze and manipulat
 - **Image Analysis**: Analyze images at the pixel level to identify dominant colors.
 - **Color Processing**: Process images to highlight or manipulate specific colors.
 - **Graphical User Interface**: Provides a user-friendly interface for interacting with the application.
+  ![Ekran görüntüsü 2024-05-13 000917](https://github.com/beng666/PixelWizard/assets/133106559/92c42ec1-7bc1-41e9-b355-90c84123ba01)
+
 
 ## Installation
 
